@@ -10,3 +10,9 @@
 ![DarkGruvBox](https://user-images.githubusercontent.com/97905862/183939054-cbb8ae13-cbcd-44df-aca0-0dcadd6d83fc.PNG)
 ![LightGruvBox](https://user-images.githubusercontent.com/97905862/183939057-fea97810-b74a-494d-85bb-c8f514d65a7b.PNG)
 
+You'll be able to change the colors to whatever you want if you like. Just download the corrosponding folder to th theme that you want and we'll get into the installation :>
+
+# Installation
+Now that you've decided which them you want you and download the corresponding folder.Inside you will see these files and one folder
+![fiels](https://user-images.githubusercontent.com/97905862/183940777-fee9307d-1284-42dc-aebb-8ce9ed973ce7.PNG)
+ Now youll want to download or move the entire  folder to somewhere safe in your drive so that you won't accidentally delete it or what not, I like to put on my Desktop or in the Documents folder.
