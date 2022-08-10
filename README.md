@@ -15,4 +15,15 @@ You'll be able to change the colors to whatever you want if you like. Just downl
 # Installation
 Now that you've decided which them you want you and download the corresponding folder.Inside you will see these files and one folder
 ![fiels](https://user-images.githubusercontent.com/97905862/183940777-fee9307d-1284-42dc-aebb-8ce9ed973ce7.PNG)
- Now youll want to download or move the entire  folder to somewhere safe in your drive so that you won't accidentally delete it or what not, I like to put on my Desktop or in the Documents folder.
+
+Now youll want to download or move the entire  folder to somewhere safe in your drive so that you won't accidentally delete it or what not, I like to put on my Desktop or in the Documents folder. Now that youve done that you can open the folder, go to the Main.html file and double click it. A menu should pop up and selece the browsere that you mainly use, for me thats Google Chrome. Now you should see the page that you downloaded in you browser. Go up to the URL bar and copy that link. 
+
+
+![url](https://user-images.githubusercontent.com/97905862/183942734-83e3168f-439c-4950-bead-ee5336dab950.PNG)
+
+
+Now go to your add-ons/extentions and open the options for New Tab Redirect and paste the link to the bar and click save
+
+![banger redirect](https://user-images.githubusercontent.com/97905862/183943629-e8f727c1-87e2-4deb-9677-c009092ae039.PNG)
+
+You've done it! Congradulations and enjy your Custom New Tab Button :>
